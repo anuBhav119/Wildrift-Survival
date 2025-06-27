@@ -41,7 +41,7 @@ Face waves of enemies, endure terrifying bosses, and explore procedurally genera
 
 - 🎮 **Engine:** Unity (Top-down 3D)
 - 💻 **Language:** C#
-- 🔊 **Audio:** Custom sound design integration
+- 🔊 **Audio:** Sounds are taken from Unity Asset Store
 - 🤖 **AI:** NavMesh-based enemy pathfinding
 
 ---
