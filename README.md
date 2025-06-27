@@ -65,7 +65,7 @@ Made with ❤ by Team Quantum Coder
 
 - Performance balancing for smooth gameplay
 - Bullet physics and hit registration
-- Jungle-level AI optimization
+- To apply checkpoints, given by the mentors
 
 ---
 
