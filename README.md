@@ -4,27 +4,35 @@
 Made with ❤ by Team Quantum Coder  
 🚀 Anubhav Haldar & Tanbi Ghosh
 
-![Wildrift Banner](banner-image-placeholder.png) <!-- Replace with actual image if available -->
-
 ---
 
 ## 🎮 Game Overview
 
-*Wildrift: Survival* puts you in the boots of a lone survivor, stranded in the dangerous and eerie Terent Forest. Your mission: *ESCAPE*. But the forest won’t let you go that easily. Fight off enemies, survive boss battles, and navigate procedurally generated levels in this fast-paced survival shooter.
+*Wildrift: Survival* puts you in the boots of a lone survivor, stranded in the dangerous and eerie Terent Forest. Your mission: *ESCAPE. SURVIVE.*  
+Face hordes of enemies, survive brutal bosses, and explore procedurally generated quests in a vibrant, danger-filled jungle.
 
 ---
 
 ## 🧩 Features
 
-- 🔫 *Weapon System* — Switch and fire weapons with dynamic feedback.
-- 👹 *Multiple Enemy Types* — Face off against melee and ranged foes.
-- 👊 *Boss Battles* — Encounter powerful bosses like *Hammerhead* and *Flamethrower*.
-- 🚗 *Optional Vehicles* — Speed through forest paths and escape threats.
-- 🧠 *AI Pathfinding* — Smart enemies that navigate the terrain.
-- 📜 *Quests & Procedural Levels* — Every playthrough offers new challenges.
-- 🎧 *Immersive Audio* — Realistic footsteps, gunshots, and ambient sounds.
-- 🧍 *Character Controller & Camera* — Smooth movement and intuitive controls.
-- 🧪 *UI System* — Health bar, ammo count, and mission objectives.
+- 🔫 *Weapon System* — Equip, fire, and switch weapons dynamically.
+- 👹 *Multiple Enemy Types* — Engage melee, ranged enemies, and powerful bosses.
+- 👊 *Boss Battles* — Survive elite enemies like *Hammerhead* and *Flamethrower*.
+- 🚗 *Optional Vehicles* — Find and drive vehicles through dense forest terrain.
+- 🧠 *AI Pathfinding* — Smarter enemies with jungle-level navigation.
+- 🌍 *Procedural Levels* — No two runs are ever the same.
+- 🎧 *Immersive Audio* — Realistic footsteps, gunfire, ambient forest sounds.
+- 🧍 *Character Controller* — Smooth movement and dynamic camera follow.
+- 💡 *Mission Logs & UI* — Health bar, ammo, objectives, and more.
+
+---
+
+## 🖼 Screenshots
+
+| Gameplay & Combat | Boss Battles | Enemies |
+|:--:|:--:|:--:|
+| ![Screenshot 1](https://github.com/user-attachments/assets/e78fb832-0db5-4b0c-9c2c-90b31cde44ce) | ![Screenshot 2](https://github.com/user-attachments/assets/fe066f08-eeac-44cc-8ca6-f9f7e595596b) | ![Screenshot 3](https://github.com/user-attachments/assets/fdb14599-7216-4429-88d8-3a0e3200d5db) |
+| ![Screenshot 4](https://github.com/user-attachments/assets/e00ce771-8f42-48b4-9c49-1807a13a6137) | ![Screenshot 5](https://github.com/user-attachments/assets/4389a64d-30c8-4b2a-a282-7a441782d6a1) |  |
 
 ---
 
@@ -32,50 +40,45 @@ Made with ❤ by Team Quantum Coder
 
 - 🎮 *Engine:* Unity (Top-down 3D)
 - 💻 *Language:* C#
-- 🔊 *Audio Integration:* Custom immersive sound system
-- 🧠 *AI:* NavMesh Pathfinding
+- 🔊 *Audio:* Custom integrated sound design
+- 🤖 *AI:* NavMesh-based pathfinding for dynamic enemies
 
 ---
 
-## 🧑‍🤝‍🧑 Target Audience
+## 🎯 Target Audience
 
-- Age Group: Teens to Adults  
-- Genre Fans: Action, Shooter, Survival
-
----
-
-## 💡 Monetization Strategy
-
-- 🎨 Cosmetic Skins
-- 📱 In-App Purchases
-- 📺 In-game Ads
+- 👦👩 Age: Teens to Adults  
+- 🎮 Ideal for: Fans of Action, Shooter, Survival genres
 
 ---
 
-## 📈 Future Plans
+## 💸 Monetization Strategy
 
-- 🌍 *Multiplayer Mode*  
-- 📖 *Narrative & Dialogue Expansion*  
-- 🔧 *Weapon Customization & Upgrades*  
-- 🤖 *Optimized Mobile Controls (Android)*
-
----
-
-## ⚔ Challenges Faced
-
-- Performance balancing for smooth gameplay
-- Bullet physics and hit registration
-- To apply checkpoints, given by the mentors
+- 🎨 Cosmetic skins
+- 📲 In-app purchases
+- 📺 Non-intrusive ads
 
 ---
 
-## 📷 Screenshots & Demo
+## 🧱 Challenges Faced
 
-Coming soon...
+- AI pathfinding in open/jungle areas
+- Smooth combat mechanics & bullet physics
+- Balancing performance for large-scale enemy spawns
+- Faced few problems while applying checkpoints given by the mentors
 
 ---
 
-## 📬 Contact & Credits
+## 🚀 Future Roadmap
+
+- 🌐 *Multiplayer Survival Mode*
+- 🧠 *Extended Storyline with Dialogue*
+- ⚒ *Weapon Upgrades & Customization*
+- 📱 *Android Port with Optimized Controls*
+
+---
+
+## 🧑‍💻 Developers
 
 *Team: Quantum Coder*  
 - 👨‍💻 Anubhav Haldar  
